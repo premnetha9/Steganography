@@ -5,10 +5,10 @@
 # Work with tool/script
 
 ## To hide the text data in the image
-### command: `python3 steganography sample_image.jpg sample_text.txt`
+### command: `python3 steganography.py sample_image.jpg sample_text.txt`
 
 ## To hide image inside the image
-### Command: `python3 steganography sample_image.jpg sample_text.txt`
+### Command: `python3 steganography.py sample_image.jpg sample_text.txt`
 
 ## To extract the hidden text/ image files
-### Command: `python steganography image_hidden.bmp`
+### Command: `python steganography.py image_hidden.bmp`
