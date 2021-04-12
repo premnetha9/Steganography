@@ -11,4 +11,4 @@
 ### Command: `python3 steganography.py sample_image.jpg sample_text.txt`
 
 ## To extract the hidden text/ image files
-### Command: `python steganography.py image_hidden.bmp`
+### Command: `python3 steganography.py image_hidden.bmp`
